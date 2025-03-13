@@ -6,7 +6,7 @@ Its layout is designed with the combination of css-flex and css-grid.
 
 ## site link
 
-By [Clicking Me](https://msarmadqadeer.github.io/news-website-ui/) you'll see the live version of this project.
+By [Clicking Mee](https://msarmadqadeer.github.io/news-website-ui/) you'll see the live version of this project.
 
 ## screen
 
